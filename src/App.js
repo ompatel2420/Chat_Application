@@ -10,8 +10,8 @@ const App = () => {
     return(
         < ChatEngine
             height="100vh"
-            projectID="0625fa88-2d91-4bdf-9e18-1ff93cf769bc"
-            userName ="Jay123456"
+            projectID="053c4949-cedc-40e3-8d3f-bc0ef498ccc1"
+            userName ="shivu123456"
             userSecret="123456"
             renderChatFeed={(chatappProps) => < ChatFeed {...chatappProps}/>}
             />
